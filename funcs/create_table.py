@@ -1,3 +1,5 @@
+DATABASE = 'micro_p4'
+
 def create_table(fname, db, cur, small = False, DATABASE = DATABASE):
     
     fpath = fname + '.csv'  # determine the file path.
