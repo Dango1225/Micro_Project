@@ -1,0 +1,3 @@
+state_county_name,bene_count,year,reg_tme_pbpy,cvd_tme_pbpy,impact_cvd_tme_pbpy,covid_ip_rate
+"Arizona, Pima","249,523",2020,"$3,644 ","$3,464 ",$180 ,0.16%
+"California, San Bernardino","322,611",2020,"$3,838 ","$3,507 ",$332 ,0.24%
